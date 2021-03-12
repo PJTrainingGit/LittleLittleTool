@@ -1,0 +1,10 @@
+D:\Program\VSProgram\FNameChange\FNameChange\bin\Debug\FNameChange.exe.config
+D:\Program\VSProgram\FNameChange\FNameChange\bin\Debug\FNameChange.exe
+D:\Program\VSProgram\FNameChange\FNameChange\bin\Debug\FNameChange.pdb
+D:\Program\VSProgram\FNameChange\FNameChange\obj\Debug\FNameChange.csprojAssemblyReference.cache
+D:\Program\VSProgram\FNameChange\FNameChange\obj\Debug\FNameChange.Form1.resources
+D:\Program\VSProgram\FNameChange\FNameChange\obj\Debug\FNameChange.Properties.Resources.resources
+D:\Program\VSProgram\FNameChange\FNameChange\obj\Debug\FNameChange.csproj.GenerateResource.cache
+D:\Program\VSProgram\FNameChange\FNameChange\obj\Debug\FNameChange.csproj.CoreCompileInputs.cache
+D:\Program\VSProgram\FNameChange\FNameChange\obj\Debug\FNameChange.exe
+D:\Program\VSProgram\FNameChange\FNameChange\obj\Debug\FNameChange.pdb
