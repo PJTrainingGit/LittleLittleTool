@@ -1,0 +1,15 @@
+D:\Programme\_Projects\Temp\Estate\Estate\Estate\bin\Debug\netcoreapp3.1\Estate.exe
+D:\Programme\_Projects\Temp\Estate\Estate\Estate\bin\Debug\netcoreapp3.1\Estate.deps.json
+D:\Programme\_Projects\Temp\Estate\Estate\Estate\bin\Debug\netcoreapp3.1\Estate.runtimeconfig.json
+D:\Programme\_Projects\Temp\Estate\Estate\Estate\bin\Debug\netcoreapp3.1\Estate.runtimeconfig.dev.json
+D:\Programme\_Projects\Temp\Estate\Estate\Estate\bin\Debug\netcoreapp3.1\Estate.dll
+D:\Programme\_Projects\Temp\Estate\Estate\Estate\bin\Debug\netcoreapp3.1\Estate.pdb
+D:\Programme\_Projects\Temp\Estate\Estate\Estate\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Programme\_Projects\Temp\Estate\Estate\Estate\obj\Debug\netcoreapp3.1\Estate.csprojAssemblyReference.cache
+D:\Programme\_Projects\Temp\Estate\Estate\Estate\obj\Debug\netcoreapp3.1\Estate.AssemblyInfoInputs.cache
+D:\Programme\_Projects\Temp\Estate\Estate\Estate\obj\Debug\netcoreapp3.1\Estate.AssemblyInfo.cs
+D:\Programme\_Projects\Temp\Estate\Estate\Estate\obj\Debug\netcoreapp3.1\Estate.csproj.CoreCompileInputs.cache
+D:\Programme\_Projects\Temp\Estate\Estate\Estate\obj\Debug\netcoreapp3.1\Estate.csproj.CopyComplete
+D:\Programme\_Projects\Temp\Estate\Estate\Estate\obj\Debug\netcoreapp3.1\Estate.dll
+D:\Programme\_Projects\Temp\Estate\Estate\Estate\obj\Debug\netcoreapp3.1\Estate.pdb
+D:\Programme\_Projects\Temp\Estate\Estate\Estate\obj\Debug\netcoreapp3.1\Estate.genruntimeconfig.cache
