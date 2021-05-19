@@ -49,19 +49,21 @@
   },
   "packageFolders": {
     "C:\\Users\\77391\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programme\\_Projects\\Temp\\Estate\\Estate\\Estate\\Estate.csproj",
+      "projectUniqueName": "C:\\Users\\77391\\Desktop\\Temp\\LittleLittleTool\\Estate\\Estate\\Estate.csproj",
       "projectName": "Estate",
-      "projectPath": "D:\\Programme\\_Projects\\Temp\\Estate\\Estate\\Estate\\Estate.csproj",
+      "projectPath": "C:\\Users\\77391\\Desktop\\Temp\\LittleLittleTool\\Estate\\Estate\\Estate.csproj",
       "packagesPath": "C:\\Users\\77391\\.nuget\\packages\\",
-      "outputPath": "D:\\Programme\\_Projects\\Temp\\Estate\\Estate\\Estate\\obj\\",
+      "outputPath": "C:\\Users\\77391\\Desktop\\Temp\\LittleLittleTool\\Estate\\Estate\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\77391\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -111,7 +113,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
