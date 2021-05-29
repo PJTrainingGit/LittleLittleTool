@@ -1,0 +1,285 @@
+{
+    "data": [],
+    "included": [],
+    "jsonapi": {
+        "server": "0.1.0",
+        "version": "1.0"
+    },
+    "meta": {
+        "aggs": {
+            "listingCategoryCode": [
+                {
+                    "doc_count": 480,
+                    "key": "res_sale"
+                },
+                {
+                    "doc_count": 44,
+                    "key": "rural_sale"
+                }
+            ],
+            "propertyType": [
+                {
+                    "doc_count": 225,
+                    "key": "House"
+                },
+                {
+                    "doc_count": 127,
+                    "key": "Section"
+                },
+                {
+                    "doc_count": 86,
+                    "key": "Lifestyle Section"
+                },
+                {
+                    "doc_count": 52,
+                    "key": "Lifestyle Property"
+                },
+                {
+                    "doc_count": 14,
+                    "key": "Unit"
+                },
+                {
+                    "doc_count": 11,
+                    "key": "Home & Income"
+                },
+                {
+                    "doc_count": 8,
+                    "key": "Apartment"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Studio"
+                }
+            ],
+            "suburb": [
+                {
+                    "doc_count": 155,
+                    "key": "Kerikeri"
+                },
+                {
+                    "doc_count": 44,
+                    "key": "Kaeo"
+                },
+                {
+                    "doc_count": 43,
+                    "key": "Kaitaia"
+                },
+                {
+                    "doc_count": 36,
+                    "key": "Paihia"
+                },
+                {
+                    "doc_count": 33,
+                    "key": "Russell"
+                },
+                {
+                    "doc_count": 26,
+                    "key": "Kaikohe"
+                },
+                {
+                    "doc_count": 21,
+                    "key": "Karikari Peninsula"
+                },
+                {
+                    "doc_count": 15,
+                    "key": "Cable Bay"
+                },
+                {
+                    "doc_count": 14,
+                    "key": "Mangonui"
+                },
+                {
+                    "doc_count": 11,
+                    "key": "Opua"
+                },
+                {
+                    "doc_count": 10,
+                    "key": "Ahipara"
+                },
+                {
+                    "doc_count": 10,
+                    "key": "Houhora"
+                },
+                {
+                    "doc_count": 10,
+                    "key": "Pukenui"
+                },
+                {
+                    "doc_count": 9,
+                    "key": "Coopers Beach"
+                },
+                {
+                    "doc_count": 7,
+                    "key": "Opononi"
+                },
+                {
+                    "doc_count": 7,
+                    "key": "Paihia Surrounds"
+                },
+                {
+                    "doc_count": 6,
+                    "key": "Kawakawa"
+                },
+                {
+                    "doc_count": 6,
+                    "key": "Whangaroa"
+                },
+                {
+                    "doc_count": 5,
+                    "key": "Kerikeri Surrounds"
+                },
+                {
+                    "doc_count": 4,
+                    "key": "Rawene"
+                },
+                {
+                    "doc_count": 4,
+                    "key": "Taupo Bay"
+                },
+                {
+                    "doc_count": 4,
+                    "key": "Totara North"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "Kaitaia Surrounds"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "Kohukohu"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "Moerewa"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "Omapere"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "Taipa"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Hokianga Surrounds"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Kaingaroa"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Karetu"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Okaihau"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Peria"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Pipiwai"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Taupo Bay/Totara North"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Waiharara"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Awanui"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Haruru"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Herekino"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Hi Hi"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Karikari"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Mangamuka"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Ohaeawai"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Otaua"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Towai"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Waimamaku"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Waimate North"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Whangaroa/Kaeo Surrounds"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Whatuwhiwhi"
+                }
+            ]
+        },
+        "esQuery": null,
+        "interpretedQuery": null,
+        "limit": 0,
+        "offset": 0,
+        "pageNumber": 1,
+        "resultsPerPage": 0,
+        "search": {
+            "location": {
+                "districts": [
+                    "Far North"
+                ],
+                "regions": null,
+                "suburbs": null
+            },
+            "params": {
+                "filter": {
+                    "category": [
+                        "res_sale"
+                    ],
+                    "district": [
+                        220
+                    ]
+                },
+                "meta": {
+                    "aggs": "propertyType,listingCategoryCode,suburb"
+                },
+                "page": {
+                    "groupBy": "featured",
+                    "limit": 0,
+                    "offset": 0
+                }
+            }
+        },
+        "searchTime": 0.002,
+        "totalResults": 524
+    }
+}
